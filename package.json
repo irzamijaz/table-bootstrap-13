@@ -1,0 +1,9 @@
+
+{"scripts":{
+    "watch:scss": "node-sass -w /index.scss /index.css"
+},
+  "dependencies": {
+    "bootstrap": "^5.3.0-alpha1",
+    "node-sass": "^8.0.0"
+  }
+}
